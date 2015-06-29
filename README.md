@@ -1,0 +1,2 @@
+# TableTennisSeedingAlgorithm
+TableTennisSeedingAlgorithm
